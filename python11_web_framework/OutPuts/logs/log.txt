@@ -1,0 +1,976 @@
+2020-02-04 23:57:14,155 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-04 23:57:16,922 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:57:16,987 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:17,392 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:57:17,991 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:18,873 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:57:18,916 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:19,397 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:57:19,969 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:20,355 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:57:20,404 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:20,779 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:57:21,350 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:21,703 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:57:21,755 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:22,060 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:57:22,107 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:22,461 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:57:22,516 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:22,831 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:57:22,881 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:23,224 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:57:23,279 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 0)
+2020-02-04 23:57:23,688 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-04 23:57:29,773 - logger.py[line:34] - INFO: ('等待元素可见时长%s', 6)
+2020-02-04 23:59:26,381 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-04 23:59:29,320 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:59:29,421 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:29,986 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:59:30,074 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:31,138 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:59:31,215 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:31,833 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:59:32,505 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:32,890 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:59:32,965 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:33,565 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:59:34,233 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:34,615 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:59:34,692 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:35,162 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:59:35,231 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:35,611 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:59:35,696 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:36,190 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-04 23:59:36,263 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:36,663 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-04 23:59:36,743 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-04 23:59:37,371 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-04 23:59:39,914 - logger.py[line:34] - INFO: 等待元素可见时长2
+2020-02-05 00:01:28,707 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:31,867 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:31,963 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:32,409 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:33,019 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:33,934 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:33,988 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:34,551 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:35,143 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:35,590 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:35,648 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:36,134 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:36,725 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:37,086 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:37,146 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:37,500 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:37,560 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:37,909 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:37,983 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:38,374 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:38,429 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:38,809 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:38,872 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:01:39,379 - logger.py[line:34] - INFO: "====等待元素{0}可见===".format(locator)
+2020-02-05 00:01:42,593 - logger.py[line:34] - INFO: "等待元素可见时长{0}".format(wait_times)
+2020-02-05 00:02:23,798 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 00:02:26,586 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 00:02:26,702 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:27,243 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 00:02:27,905 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:28,808 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 00:02:28,889 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:29,455 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 00:02:30,129 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:30,510 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 00:02:30,592 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:31,127 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 00:02:31,765 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:32,143 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 00:02:32,229 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:32,664 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 00:02:32,737 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:33,092 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 00:02:33,174 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:33,626 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 00:02:33,695 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:34,060 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 00:02:34,141 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 00:02:34,739 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 00:02:37,806 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-05 11:57:28,327 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 11:57:34,170 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 11:57:34,245 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:34,661 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 11:57:35,279 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:36,537 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 11:57:36,590 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:37,064 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 11:57:37,688 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:38,092 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 11:57:38,144 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:38,696 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 11:57:39,360 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:39,936 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 11:57:40,010 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:40,461 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 11:57:40,533 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:40,969 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 11:57:41,018 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:41,370 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 11:57:41,416 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:41,806 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 11:57:41,860 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 11:57:42,290 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 11:57:47,438 - logger.py[line:34] - INFO: 等待元素可见时长5
+2020-02-05 12:03:19,186 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 12:03:22,315 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:03:22,388 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:22,859 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:03:22,929 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:24,136 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:03:24,232 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:25,002 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:03:25,687 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:26,296 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:03:26,412 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:27,350 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:03:28,033 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:28,454 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:03:28,519 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:29,471 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:03:29,539 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:29,979 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:03:30,059 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:31,138 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:03:31,249 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:31,915 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:03:32,030 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:03:33,242 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 12:03:37,879 - logger.py[line:34] - INFO: 等待元素可见时长4
+2020-02-05 12:47:07,197 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 12:47:10,322 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:47:10,444 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:10,997 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:47:11,616 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:12,522 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:47:12,586 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:13,077 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:47:13,676 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:14,051 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:47:14,111 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:14,586 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:47:15,177 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:15,534 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:47:15,595 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:15,963 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:47:16,018 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:16,356 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:47:16,424 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:16,817 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:47:16,873 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:17,219 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:47:17,281 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:47:17,774 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 12:47:20,945 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-05 12:49:12,923 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 12:49:16,119 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:49:16,209 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:16,685 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:49:17,293 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:18,224 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:49:18,283 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:18,809 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:49:19,403 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:19,804 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:49:19,870 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:20,363 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:49:20,958 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:21,335 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:49:21,394 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:21,773 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:49:21,828 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:22,180 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:49:22,248 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:22,669 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:49:22,727 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:23,108 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:49:23,171 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:49:23,699 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 12:49:27,214 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-05 12:51:59,614 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 12:52:02,428 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:52:02,515 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:03,026 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:52:03,099 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:04,032 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:52:04,092 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:04,635 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:52:05,288 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:05,646 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:52:05,711 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:06,251 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:52:06,877 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:07,229 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:52:07,299 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:07,726 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:52:07,786 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:08,163 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:52:08,236 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:08,672 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 12:52:08,735 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:09,104 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 12:52:09,173 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 12:52:09,717 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 12:52:12,992 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-05 13:04:15,756 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 13:04:15,773 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 13:04:18,123 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots/_2020-02-05-13-04-15.png
+2020-02-05 13:04:18,902 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:04:18,989 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:19,005 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:04:19,038 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-05 13:04:19,200 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:04:19,237 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:04:19,384 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:19,419 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:19,507 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:04:19,571 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:19,585 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:04:19,613 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:04:20,634 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:04:20,687 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:20,704 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:04:20,735 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:04:20,896 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:04:20,929 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-05 13:04:21,089 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:21,122 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:21,257 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:04:21,876 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:21,892 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:04:21,922 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:04:22,299 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:04:22,356 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:22,373 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:04:22,402 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-05 13:04:22,569 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:04:22,601 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-05 13:04:22,746 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:22,778 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:22,908 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:04:23,547 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:23,569 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:04:23,600 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:04:23,967 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:04:24,026 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:24,042 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:04:24,078 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-05 13:04:24,163 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:04:24,196 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:04:24,350 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:24,382 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:24,479 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:04:24,538 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:24,553 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:04:24,582 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:04:24,926 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:04:24,985 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:25,000 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:04:25,032 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:04:25,202 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:04:25,235 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-05 13:04:25,318 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:25,350 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:25,450 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:04:25,509 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:25,534 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:04:25,563 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:04:25,911 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:04:25,967 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:04:25,982 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:04:26,015 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:04:26,188 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:04:26,220 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:04:26,388 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:26,422 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:04:26,555 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 13:04:29,482 - logger.py[line:34] - INFO: 等待元素可见时长2
+2020-02-05 13:08:37,327 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 13:08:37,344 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 13:08:39,394 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots/_2020-02-05-13-08-37.png
+2020-02-05 13:08:40,024 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:08:40,128 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:40,144 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:08:40,180 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-05 13:08:40,359 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:08:40,402 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:08:40,558 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:40,599 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:40,692 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:08:41,310 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:41,324 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:08:41,355 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:08:42,231 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:08:42,289 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:42,301 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:08:42,337 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:08:42,496 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:08:42,533 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-05 13:08:42,704 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:42,740 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:42,880 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:08:43,480 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:43,494 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:08:43,525 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:08:43,836 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:08:43,906 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:43,921 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:08:43,953 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-05 13:08:44,133 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:08:44,166 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-05 13:08:44,331 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:44,365 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:44,506 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:08:45,144 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:45,159 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:08:45,191 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:08:45,536 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:08:45,631 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:45,650 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:08:45,857 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-05 13:08:45,983 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:08:46,018 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:08:46,159 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:46,196 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:46,299 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:08:46,363 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:46,378 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:08:46,414 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:08:46,761 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:08:46,844 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:46,860 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:08:46,897 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:08:47,067 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:08:47,104 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-05 13:08:47,200 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:47,234 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:47,332 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:08:47,392 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:47,406 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:08:47,437 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:08:47,768 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:08:47,832 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:08:47,846 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:08:47,878 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:08:48,035 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:08:48,072 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:08:48,225 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:48,262 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:08:48,390 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 13:08:51,625 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-05 13:09:53,450 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 13:09:53,491 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 13:09:54,027 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-13-09-53.png
+2020-02-05 13:09:54,806 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:09:54,900 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:09:54,917 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:09:54,951 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-05 13:09:55,141 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:09:55,184 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:09:55,349 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:09:55,389 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:09:55,492 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:09:56,113 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:09:56,127 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:09:56,158 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:09:57,068 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:09:57,130 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:09:57,145 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:09:57,181 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:09:57,357 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:09:57,393 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-05 13:09:57,543 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:09:57,580 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:09:57,733 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:09:58,381 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:09:58,404 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:09:58,436 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:09:58,779 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:09:58,848 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:09:58,864 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:09:58,898 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-05 13:09:59,077 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:09:59,112 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-05 13:09:59,269 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:09:59,309 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:09:59,450 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:10:00,078 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:10:00,094 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:10:00,126 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:10:00,461 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:10:00,530 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:10:00,546 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:10:00,584 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-05 13:10:00,680 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:10:00,721 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:10:00,888 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:10:00,925 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:10:01,029 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:10:01,087 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:10:01,102 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:10:01,136 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:10:01,484 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:10:01,558 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:10:01,574 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:10:01,610 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:10:01,795 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:10:01,833 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-05 13:10:01,939 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:10:01,974 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:10:02,078 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-05 13:10:02,142 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:10:02,158 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-05 13:10:02,190 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-05 13:10:02,528 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 13:10:02,606 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 13:10:02,622 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 13:10:02,660 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 13:10:02,832 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 13:10:02,871 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 13:10:03,048 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 13:10:03,084 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 13:10:03,227 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 13:10:06,203 - logger.py[line:34] - INFO: 等待元素可见时长2
+2020-02-05 17:11:46,356 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 17:11:46,375 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:11:48,512 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-11-46.png
+2020-02-05 17:12:33,705 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 17:12:33,720 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:12:35,801 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-12-33.png
+2020-02-05 17:17:11,141 - logger.py[line:34] - INFO: ====等待元素('class name', 'button-login')可见===
+2020-02-05 17:17:11,158 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:17:13,394 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-17-11.png
+2020-02-05 17:19:55,951 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[@class="active"]')可见===
+2020-02-05 17:19:55,970 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:19:58,015 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-19-55.png
+2020-02-05 17:20:29,971 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[@class="active"]')可见===
+2020-02-05 17:20:29,990 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:20:31,754 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-20-30.png
+2020-02-05 17:22:30,038 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[@class="active"]')可见===
+2020-02-05 17:22:30,057 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:22:32,250 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-22-30.png
+2020-02-05 17:25:00,168 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[@class="active"]')可见===
+2020-02-05 17:25:00,186 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:25:02,187 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\_2020-02-05-17-25-00.png
+2020-02-05 17:25:02,494 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 17:25:22,783 - logger.py[line:34] - INFO: 等待元素可见失败
+2020-02-05 17:25:24,826 - logger.py[line:34] - INFO: 截图成功，文件路径为F:\柠檬班教学代码\python11_web_framework\OutPuts\screenshots\登录页面_登录功能_2020-02-05-17-25-22.png
+2020-02-05 17:56:57,543 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-05 17:56:57,612 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 17:56:57,629 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-05 17:56:57,663 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-05 17:56:58,389 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 17:56:58,459 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 17:56:58,475 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 17:56:58,503 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 17:56:58,660 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 17:56:58,693 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 17:56:58,832 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 17:56:58,863 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 17:56:58,947 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 17:57:02,368 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-05 18:06:11,263 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-05 18:06:11,361 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 18:06:11,378 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-05 18:06:11,417 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-05 18:06:12,412 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 18:06:12,498 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 18:06:12,514 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 18:06:12,546 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 18:06:12,701 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 18:06:12,742 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 18:06:12,881 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 18:06:12,920 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 18:06:13,008 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 18:06:15,687 - logger.py[line:34] - INFO: 等待元素可见时长2
+2020-02-05 18:06:46,358 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-05 18:06:46,442 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 18:06:46,460 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-05 18:06:46,493 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-05 18:06:47,346 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-05 18:06:47,434 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-05 18:06:47,449 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-05 18:06:47,477 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-05 18:06:47,671 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-05 18:06:47,709 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-05 18:06:47,849 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-05 18:06:47,896 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-05 18:06:47,980 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-05 18:06:51,580 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-06 14:55:50,790 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 14:55:50,865 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:55:50,884 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 14:55:50,920 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 14:55:54,889 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:55:55,060 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:55:55,105 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:55:55,176 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 14:55:55,446 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:55:55,543 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 14:55:55,716 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:55:55,775 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:55:56,124 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 14:56:00,603 - logger.py[line:34] - INFO: 等待元素可见时长4
+2020-02-06 14:59:21,309 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 14:59:21,426 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:21,469 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 14:59:21,528 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 14:59:22,617 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:59:22,694 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:22,710 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:59:22,785 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 14:59:23,048 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:59:23,104 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 14:59:23,416 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:23,507 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:25,386 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:59:25,445 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:25,460 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:59:25,490 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 14:59:25,755 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:59:25,827 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 14:59:26,050 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:26,099 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:26,695 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:59:26,790 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:26,822 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:59:26,892 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 14:59:27,039 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:59:27,074 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 14:59:27,197 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:27,229 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:27,870 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:59:27,937 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:27,979 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:59:28,037 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-06 14:59:28,174 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:59:28,228 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 14:59:28,442 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:28,510 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:29,410 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:59:29,490 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:29,510 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:59:29,580 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 14:59:29,993 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:59:30,071 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-06 14:59:30,295 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:30,370 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:30,817 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 14:59:30,879 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 14:59:30,894 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 14:59:30,925 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 14:59:31,074 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 14:59:31,107 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 14:59:31,411 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:31,442 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 14:59:31,564 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 14:59:36,812 - logger.py[line:34] - INFO: 等待元素可见时长5
+2020-02-06 15:02:01,987 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 15:02:02,063 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:02,079 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 15:02:02,111 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 15:02:02,849 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:02:02,934 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:02,948 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:02:02,979 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 15:02:03,105 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:02:03,140 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 15:02:03,320 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:03,378 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:03,470 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:02:04,104 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:04,129 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:02:04,156 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:02:05,132 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:02:05,182 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:05,197 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:02:05,224 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 15:02:05,350 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:02:05,379 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 15:02:05,495 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:05,528 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:05,648 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:02:06,228 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:06,242 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:02:06,270 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:02:06,619 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:02:06,672 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:06,686 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:02:06,714 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 15:02:06,824 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:02:06,854 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 15:02:06,970 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:07,000 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:07,149 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:02:07,764 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:07,778 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:02:07,805 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:02:08,338 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:02:08,478 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:08,527 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:02:08,599 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-06 15:02:08,793 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:02:08,862 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 15:02:09,226 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:09,319 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:09,553 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:02:09,698 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:09,737 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:02:09,787 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:02:10,334 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:02:10,415 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:10,450 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:02:10,499 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 15:02:10,691 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:02:10,742 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-06 15:02:10,962 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:11,054 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:11,305 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:02:11,413 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:11,449 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:02:11,499 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:02:12,164 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:02:12,259 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:02:12,293 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:02:12,384 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 15:02:12,651 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:02:12,710 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 15:02:13,084 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:13,150 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:02:13,454 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 15:02:17,117 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-06 15:10:24,037 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 15:10:24,112 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:24,128 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 15:10:24,158 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 15:10:25,171 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:10:25,294 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:25,319 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:10:25,384 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 15:10:25,638 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:10:25,729 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 15:10:25,995 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:26,104 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:26,294 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:10:26,488 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:26,533 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:10:26,604 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:10:28,199 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:10:28,340 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:28,388 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:10:28,480 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 15:10:28,839 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:10:28,910 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 15:10:29,250 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:29,322 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:29,792 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:10:30,491 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:30,539 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:10:30,611 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:10:31,053 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:10:31,123 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:31,138 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:10:31,165 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 15:10:31,288 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:10:31,315 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 15:10:31,418 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:31,445 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:31,567 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:10:32,207 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:32,254 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:10:32,342 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:10:33,272 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:10:33,362 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:33,403 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:10:33,450 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-06 15:10:33,668 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:10:33,732 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 15:10:34,110 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:34,180 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:34,437 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:10:34,570 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:34,610 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:10:34,677 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:10:35,675 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:10:35,726 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:35,741 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:10:35,768 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 15:10:36,107 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:10:36,198 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-06 15:10:36,427 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:36,493 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:36,669 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 15:10:36,766 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:36,795 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 15:10:36,879 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 15:10:37,461 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 15:10:37,535 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 15:10:37,569 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 15:10:37,637 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 15:10:38,086 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 15:10:38,179 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 15:10:38,558 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:38,625 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 15:10:38,968 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 15:10:43,289 - logger.py[line:34] - INFO: 等待元素可见时长4
+2020-02-06 16:41:30,299 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 16:41:30,378 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:30,393 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 16:41:30,424 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 16:41:31,075 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:41:31,153 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:31,168 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:41:31,196 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 16:41:31,328 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:41:31,363 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 16:41:31,503 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:31,536 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:31,619 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:41:31,681 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:31,695 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:41:31,724 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:41:32,526 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:41:32,583 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:32,596 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:41:32,626 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 16:41:32,788 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:41:32,820 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 16:41:32,968 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:33,003 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:33,154 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:41:33,785 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:33,804 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:41:33,832 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:41:34,167 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:41:34,227 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:34,243 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:41:34,272 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 16:41:34,420 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:41:34,452 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 16:41:34,586 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:34,617 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:34,737 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:41:35,379 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:35,393 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:41:35,421 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:41:35,732 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:41:35,790 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:35,805 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:41:35,833 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-06 16:41:35,911 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:41:35,943 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 16:41:36,079 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:36,108 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:36,196 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:41:36,245 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:36,259 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:41:36,287 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:41:36,603 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:41:36,666 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:36,681 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:41:36,714 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 16:41:36,862 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:41:36,894 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-06 16:41:36,977 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:37,008 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:37,092 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:41:37,145 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:37,159 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:41:37,188 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:41:37,497 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:41:37,564 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:41:37,580 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:41:37,613 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 16:41:37,776 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:41:37,807 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 16:41:37,947 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:37,979 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:41:38,107 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 16:41:41,427 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-06 16:47:24,486 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 16:47:24,572 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:24,588 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 16:47:24,623 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 16:47:25,250 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:47:25,344 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:25,360 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:47:25,390 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 16:47:25,564 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:47:25,602 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 16:47:25,755 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:25,797 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:25,910 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:47:25,976 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:25,990 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:47:26,021 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:47:26,888 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:47:26,943 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:26,957 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:47:26,988 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 16:47:27,164 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:47:27,199 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 16:47:27,348 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:27,380 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:27,510 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:47:28,136 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:28,150 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:47:28,179 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:47:28,512 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:47:28,573 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:28,587 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:47:28,616 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 16:47:28,783 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:47:28,816 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 16:47:28,961 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:28,996 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:29,129 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:47:29,726 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:29,740 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:47:29,770 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:47:30,109 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:47:30,171 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:30,186 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:47:30,218 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-06 16:47:30,302 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:47:30,333 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 16:47:30,487 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:30,520 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:30,612 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:47:30,666 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:30,680 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:47:30,709 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:47:31,032 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:47:31,097 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:31,111 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:47:31,143 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 16:47:31,316 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:47:31,351 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-06 16:47:31,441 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:31,473 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:31,558 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 16:47:31,611 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:31,624 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 16:47:31,655 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 16:47:31,987 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 16:47:32,046 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 16:47:32,060 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 16:47:32,091 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 16:47:32,252 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 16:47:32,285 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 16:47:32,435 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:32,467 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 16:47:32,596 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 16:47:35,567 - logger.py[line:34] - INFO: 等待元素可见时长2
+2020-02-06 17:45:43,145 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 17:45:43,244 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:43,262 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 17:45:43,297 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 17:45:43,930 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:45:44,017 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:44,031 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:45:44,061 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 17:45:44,210 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:45:44,244 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 17:45:44,381 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:44,415 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:44,506 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 17:45:44,569 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:44,583 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 17:45:44,613 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 17:45:45,408 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:45:45,468 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:45,484 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:45:45,523 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 17:45:45,690 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:45:45,722 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 17:45:45,850 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:45,881 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:46,002 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 17:45:46,591 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:46,605 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 17:45:46,636 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 17:45:46,960 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:45:47,020 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:47,035 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:45:47,066 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：1300256610
+2020-02-06 17:45:47,214 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:45:47,245 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb97060
+2020-02-06 17:45:47,376 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:47,406 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:47,531 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 17:45:48,664 - logger.py[line:34] - INFO: 等待元素可见时长1
+2020-02-06 17:45:48,677 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 17:45:48,707 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 17:45:49,002 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:45:49,062 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:49,076 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:45:49,106 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：
+2020-02-06 17:45:49,185 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:45:49,218 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 17:45:49,359 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:49,393 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:49,479 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 17:45:49,537 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:49,551 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 17:45:49,581 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 17:45:49,891 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:45:49,946 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:49,960 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:45:49,992 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 17:45:50,156 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:45:50,192 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：
+2020-02-06 17:45:50,275 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:50,309 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:50,398 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[@class="error-con"]')可见===
+2020-02-06 17:45:50,454 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:50,469 - logger.py[line:34] - INFO: 查找元素('xpath', '//span[@class="error-con"]')
+2020-02-06 17:45:50,500 - logger.py[line:34] - INFO: 根据元素('xpath', '//span[@class="error-con"]')获取内容
+2020-02-06 17:45:50,801 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:45:50,866 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:45:50,881 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:45:50,911 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 17:45:51,069 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:45:51,104 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 17:45:51,251 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:51,283 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:45:51,408 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 17:45:54,596 - logger.py[line:34] - INFO: 等待元素可见时长3
+2020-02-06 17:46:34,213 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 17:46:34,294 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:46:34,310 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 17:46:34,341 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 17:46:34,998 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:46:35,083 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:46:35,099 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:46:35,132 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 17:46:35,275 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:46:35,313 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 17:46:35,438 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:46:35,473 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:46:35,564 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 17:46:38,282 - logger.py[line:34] - INFO: 等待元素可见时长2
+2020-02-06 17:53:54,701 - logger.py[line:34] - INFO: ====等待元素('xpath', '//a[text()="登录/注册"]')可见===
+2020-02-06 17:53:54,806 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:53:54,823 - logger.py[line:34] - INFO: 查找元素('xpath', '//a[text()="登录/注册"]')
+2020-02-06 17:53:54,862 - logger.py[line:34] - INFO: 主页_点击首页按钮功能点击元素:('xpath', '//a[text()="登录/注册"]')
+2020-02-06 17:53:55,717 - logger.py[line:34] - INFO: ====等待元素('xpath', '//input[@id="username"]')可见===
+2020-02-06 17:53:55,797 - logger.py[line:34] - INFO: 等待元素可见时长0
+2020-02-06 17:53:55,813 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="username"]')
+2020-02-06 17:53:55,848 - logger.py[line:34] - INFO: 根据元素//input[@id="username"]输入：13002566103
+2020-02-06 17:53:56,012 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="pwd"]')
+2020-02-06 17:53:56,048 - logger.py[line:34] - INFO: 根据元素//input[@id="pwd"]输入：wzb970608
+2020-02-06 17:53:56,189 - logger.py[line:34] - INFO: 查找元素('xpath', '//input[@id="login-button"]')
+2020-02-06 17:53:56,255 - logger.py[line:34] - INFO: 登录页面_登录功能点击元素:('xpath', '//input[@id="login-button"]')
+2020-02-06 17:54:01,366 - logger.py[line:34] - INFO: ====等待元素('xpath', '//span[text()="返回旧版"]')可见===
+2020-02-06 17:54:04,754 - logger.py[line:34] - INFO: 等待元素可见时长3
